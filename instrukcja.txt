@@ -1,0 +1,18 @@
+	
+	Instrukcja:
+
+-aby uruchomić projekt wystarczy na localhost otworzyć plik Strona_Biblioteka,
+-po przejściu na następną stronę zostanie utworzona mała baza dancyh w języku MySQL,
+-projekt składa się z paru stron po przejściu na stronę phpSearch.php baza danych zostaje usunięta, 
+
+	Słowem wstępu:
+
+Jest to wstępna realizacja utworzenia bazy danych Biblioteka przy użyciu PHP i MySQL. Projekt składa się ze strony startowej,
+strony głównej a na niej kwerendy wyświetlającej oraz odnośników do dwóch innych możliwości wyświetlenia. W skład bazy poza 
+tabelą autorzy i książki jest również tabela egzemplarze ale brakło czasu na użycie jej. 
+
+Autor:
+-Adam Adamczyk
+-Wydział Metali i Informatyki przemysłowej
+-AGH
+-Informatyka stosowana

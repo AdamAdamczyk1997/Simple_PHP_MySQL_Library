@@ -1,0 +1,55 @@
+
+body, html {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+
+div, body, html {
+	margin:0px;
+	padding:0px;
+	font-size:30px;
+}
+
+
+.baner {
+	background-color:#3B85AA;
+	padding:10px;
+	font-family:Arial;
+	text-align:center;
+	color:white;
+}
+
+.stopka{
+	background-color:#3B85AA;
+	padding:10px;
+	font-family:Arial;
+	text-align:center;
+	color:white;
+	position:absolute;
+	bottom:0;
+	width:100%;
+}
+
+.prawy {
+	width:50%;
+	float:left;
+}
+.lewy {
+	width:50%;
+	text-align:center;
+	float:left;
+	border-bottom-width:2px;
+	background-color:white;
+}
+
+table {
+  width: 100%;
+}
+
+button {
+	padding:50px;
+	box-shadow:6px 6px 4px #000;
+	cursor:pointer;
+	float:center;
+	} 
